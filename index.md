@@ -10,5 +10,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
 [Image of Yaktocat needs an ! at the begining to display images](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
